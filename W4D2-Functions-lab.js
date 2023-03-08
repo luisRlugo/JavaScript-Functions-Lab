@@ -1,4 +1,4 @@
-// Write a function called minusOnethat takes a parameter num. Assuming the argument is a number, print the argument -1.
+// 1. Write a function called minusOnethat takes a parameter num. Assuming the argument is a number, print the argument -1.
 
 // minusOne(10);        // 9
 // minusOne(100);       // 99
@@ -13,7 +13,7 @@ minusOne(100);
 
 console.log("==================================");
 
-// Write a function makeSentence that takes three parameters and concatenates them into a fully formed sentence.
+//2. Write a function makeSentence that takes three parameters and concatenates them into a fully formed sentence.
 
 // makeSentence('I', 'want', 'chimichangas');
 // => 'Oh boy, do I want chimichangas or what?'
@@ -32,7 +32,7 @@ makeSentence("I", "want", "chimichangas");
 
 console.log("==================================");
 
-// Write a function called getLastElement that takes a parameter arr.
+//3. Write a function called getLastElement that takes a parameter arr.
 // Invoke the function with an array as the argument.
 // The function should print the last element within the array.
 
